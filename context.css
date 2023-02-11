@@ -1,0 +1,22 @@
+.bg{
+    background-color: black;
+     color:white;
+    padding:22px;
+}
+
+.heading{
+    margin:20px;
+}
+
+.btn{
+    margin:20px;
+    background-color: black;
+    width:100px;
+    height: 40px;
+    color:white;
+}
+
+.ol{
+    margin:20px;
+    font-size: 30px;
+}
